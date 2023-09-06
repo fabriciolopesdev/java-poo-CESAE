@@ -1,11 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="45150d89-e140-4cd3-9a38-aa6974be7dac" name="Changes" comment="" />
+    <list default="true" id="45150d89-e140-4cd3-9a38-aa6974be7dac" name="Changes" comment="ex03to06">
+      <change afterPath="$PROJECT_DIR$/src/Ex03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex03/Retangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex04/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex05/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex05/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex06/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex07/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex07/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex08/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex08/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex09/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex09/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex01/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex01/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex02/Cao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex02/Cao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex02/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="864cf9fa-b20a-4809-84d7-76161a62cbf2" />
+        <option name="url" value="https://github.com/fabriciofrontend/Ex09.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Uw9XIPxJetZulEiAedVv7O4qTw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,12 +58,91 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/fdev01/Desktop/Ex09&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.Ex09.Main">
+    <configuration name="Ex01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex01.Main" />
+      <module name="Ex09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex05.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex05.Main" />
+      <module name="Ex09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex08.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex08.Main" />
+      <module name="Ex09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex09.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex09.Main" />
+      <module name="Ex09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex07.Main" />
+      <module name="Ex09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex09.Main" />
+        <item itemvalue="Application.Ex08.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Ex01.Main" />
+        <item itemvalue="Application.Ex05.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,5 +153,20 @@
       <updated>1693839816500</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ex03to06" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex03to06" />
   </component>
 </project>
